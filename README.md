@@ -1,2 +1,2 @@
 # portfolio_leslie
-A little vie of my work.
+A little view of my work.
